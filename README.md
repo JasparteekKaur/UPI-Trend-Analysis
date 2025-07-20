@@ -51,11 +51,6 @@ To analyze monthly UPI transaction trends and uncover actionable insights relate
 - MoM growth logic built using DAX in Power BI
 - Comparative views for quarters and years
 
-
-##  Screenshots
-
-> *(Insert dashboard screenshots here: combo chart, MoM growth graph with annotations, etc.)*
-
 ## Future Improvements
 
 - Integrate real-time API-based data updates
